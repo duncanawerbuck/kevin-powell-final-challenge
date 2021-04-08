@@ -13,15 +13,14 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
 - 3-columns after header is the "preamble"
 - main section is the paragraphs and image
 - aside is the 3 blocks (each has heading and paragraph)
+- add unstyled content for main
 
 ## In Progress
 
-- add unstyled content for main
+- add footer content
 
 ## To Do
 
-- add main content
-- add footer content
 - mobile-first layout:
   - header links
   - main hero content (h1, p, CTA link)
