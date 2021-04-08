@@ -20,7 +20,8 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
 ## In Progress
 
 - mobile-first layout:
-  - header links
+  - logo and header links
+  - sign in/sign up links
 
 ## To Do
 
@@ -28,8 +29,8 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
   - main hero content (h1, p, CTA link)
   - preamble (must be single col on small viewports)
   - aside (collapse below main and become full width)
-- layout for "medium" viewport width for 4 items above
-- layout for "large and above" layout for 4 items above
+- layout for "medium" viewport width for items under "mobile-first layout"
+- layout for "large and above" layout for items under "mobile-first layout"
 - span inside h1 for some text having different colour
 - colours
 - fonts

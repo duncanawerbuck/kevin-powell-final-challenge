@@ -6,3 +6,7 @@
 body {
   background: steelblue;
 }
+
+@media (max-width: 700px) {
+  /* TODO: logo and header links */
+}
