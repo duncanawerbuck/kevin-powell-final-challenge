@@ -14,15 +14,17 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
 - main section is the paragraphs and image
 - aside is the 3 blocks (each has heading and paragraph)
 - add unstyled content for main
+- add footer content
+- add aria-labels for navs
 
 ## In Progress
 
-- add footer content
+- mobile-first layout:
+  - header links
 
 ## To Do
 
 - mobile-first layout:
-  - header links
   - main hero content (h1, p, CTA link)
   - preamble (must be single col on small viewports)
   - aside (collapse below main and become full width)
