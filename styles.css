@@ -7,6 +7,11 @@ body {
   background: steelblue;
 }
 
-@media (max-width: 700px) {
-  /* TODO: logo and header links */
+header,
+.header__nav {
+  text-align: center;
+}
+
+.header__hero {
+  text-align: left;
 }
