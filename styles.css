@@ -7,6 +7,14 @@ body {
   background: steelblue;
 }
 
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 header,
 .header__nav {
   text-align: center;
