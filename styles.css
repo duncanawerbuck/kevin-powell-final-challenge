@@ -13,11 +13,39 @@ li {
 
 a {
   text-decoration: none;
+  color: inherit;
+}
+
+header {
+  background-color: #2e323f;
 }
 
 header,
-.header__nav {
+.header__nav,
+.footer__nav-links-groups {
   text-align: center;
+}
+
+.header__nav {
+  color: white;
+}
+
+.header__nav li {
+  text-transform: uppercase;
+}
+
+nav ul {
+  font-size: 1.5rem;
+}
+
+nav li {
+  margin-top: 0.5rem;
+}
+
+.call-to-action {
+  background-color: #a59678;
+  border-radius: 2rem;
+  padding: 0.25rem 0.75rem;
 }
 
 .header__hero {
