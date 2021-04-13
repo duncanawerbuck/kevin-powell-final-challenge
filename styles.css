@@ -71,3 +71,9 @@ nav li {
 .row {
   padding: 2rem 2rem;
 }
+
+@media (min-width: 700px) {
+  .row {
+    display: flex;
+  }
+}

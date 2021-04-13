@@ -25,6 +25,8 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
 - sign up should be styled as cta
 
 ## In Progress
+- +700px media query
+  - align logo and top links
 
 ## To Do
 
