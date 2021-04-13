@@ -26,12 +26,10 @@ header,
   text-align: center;
 }
 
-.header__nav {
-  color: white;
-}
-
-.header__nav li {
+.header__nav li,
+.call-to-action {
   text-transform: uppercase;
+  color: white;
 }
 
 nav ul {
@@ -50,4 +48,21 @@ nav li {
 
 .header__hero {
   text-align: left;
+  background-color: #3b4050;
+}
+
+.header__main-title {
+  color: #fff;
+}
+
+.alt-header-text {
+  color: #a59678;
+}
+
+.header__main-content {
+  color: #fff;
+}
+
+.row {
+  padding: 2rem 2rem;
 }
