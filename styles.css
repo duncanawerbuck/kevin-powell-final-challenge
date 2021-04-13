@@ -63,6 +63,11 @@ nav li {
   color: #fff;
 }
 
+.header__main-content p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .row {
   padding: 2rem 2rem;
 }

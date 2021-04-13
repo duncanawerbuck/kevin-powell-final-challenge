@@ -20,6 +20,7 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
   - centre-aligned logo and top links
   - sign in/sign up links
   - fully style (except font family) top nav (links and logo only)
+  - main hero content (h1, p, CTA link)
 - remove text decoration on links
 - sign up should be styled as cta
 
@@ -28,7 +29,6 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
 ## To Do
 
 - mobile-first layout:
-  - main hero content (h1, p, CTA link)
   - preamble (must be single col on small viewports)
   - aside (collapse below main and become full width)
 - layout for "medium" viewport width for items under "mobile-first layout"
