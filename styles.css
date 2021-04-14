@@ -75,5 +75,24 @@ nav li {
 @media (min-width: 700px) {
   .row {
     display: flex;
+    padding: 0.5rem 2rem;
+  }
+
+  .header__nav ul {
+    font-size: 1rem;
+  }
+
+  .header__nav.row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .header__nav ul {
+    display: flex;
+    gap: 0.8rem;
+  }
+
+  .page-links {
+    margin: 0 2rem 0 auto;
   }
 }

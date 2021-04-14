@@ -24,12 +24,15 @@ https://courses.kevinpowell.co/courses/conquering-responsive-layouts/278049-day-
 - remove text decoration on links
 - sign up should be styled as cta
 
-## In Progress
 - +700px media query
-  - align logo and top links
+  - logo and top links
+
+## In Progress
 
 ## To Do
 
+- +700px media query
+  - tweak layout and styling for header\_\_hero
 - mobile-first layout:
   - preamble (must be single col on small viewports)
   - aside (collapse below main and become full width)
